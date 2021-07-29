@@ -32,6 +32,10 @@ h1 > span {
     border-radius: 50%;
 }
 
+footer {
+    background: #0B0D17;
+}
+
 
 /* media queries */
 
