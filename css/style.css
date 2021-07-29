@@ -1,3 +1,17 @@
+.header-bg {
+    background: #264653;
+}
+
 .nav-search-btn {
     background-color: #E76F51;
 }
+
+.top-banner-btn {
+    background-color: #E76F51;
+    padding: 8px 40px;
+}
+
+.img-grayscale {
+    filter: grayscale(100%);
+}
+
